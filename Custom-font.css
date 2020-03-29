@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4
+{ 
+    font-family: 'Pacifico', cursive;
+    color: deeppink;
+}
+
+.p1{
+    font-family: 'Shadows Into Light', cursive;
+    color: mediumorchid;
+}
+
+.p2{
+
+    font-family: 'Special Elite', cursive;
+    color: yellow;
+}
+
+.p3{
+    font-family: 'Sacramento', cursive;
+    color: chartreuse;
+}
+
+.body{
+    background-color: black;
+}
